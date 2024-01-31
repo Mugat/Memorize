@@ -1,2 +1,2 @@
 # Memorize
-App ( Jogo de memorizar as cartas
+App ( Jogo de memorizar as cartas)
